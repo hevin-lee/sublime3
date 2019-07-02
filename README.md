@@ -1,5 +1,5 @@
 #解决新版sublime没有Package Control和无法用Package Contronl安装插件问题
-
+##参考地址：：：：：https://blog.csdn.net/weixin_41976775/article/details/89414057
 
 1.没有Package Control
 2.有了Package Control 却无法安装插件
